@@ -1,0 +1,4 @@
+git status 查看工作区、暂存区的状态
+git add 将工作区的东西添加到暂存区
+git commit 将输入的代码提交到版本库
+git push 是将本地的master分支推送到远程主机对应的master分支
